@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGrayth
-- 👀 I’m interested in ... py
-- 📫 How to reach me ... discord(thegrayth)
+- 👀 I’m interested in python game development(mainly game development)
+
 
 <!---
 TheGrayth/TheGrayth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
